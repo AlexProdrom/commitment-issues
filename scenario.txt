@@ -1,0 +1,6 @@
+1. create file
+2. add file to repository
+3. iterate WHILE
+    1. add text to the file
+    2. commit
+4. push to git
